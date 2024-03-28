@@ -33,7 +33,7 @@
     "dotenv": "^16.0.0",
     "esbuild": "0.14.51",
     "exit-hook": "2.2.1",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "fast-glob": "3.2.11",
     "fs-extra": "^10.0.0",
     "get-port": "^5.1.1",
